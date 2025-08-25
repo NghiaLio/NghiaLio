@@ -17,7 +17,7 @@
 
 - [**Finanacy-app**](https://github.com/NghiaLio/Financy_app) — Personal finance management mobile app.
 - [**Finanancy-app-backend**](https://github.com/NghiaLio/Backend-Financy-App) — Backend service for Finanacy-app.
-- [**ZagoApp**](https://github.com/NghiaLio/Zago-app) — Modern mobile app with Flutter.
+- [**ZagoApp**](https://github.com/NghiaLio/Zago-app) — Social Messaging app with Flutter.
 - [**MovieApp**](https://github.com/NghiaLio/movie-app) — Movie browsing and tracking app.
 
 ## 🎯 Goals
