@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 - **Languages:**  
-  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+  ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 - **Frameworks:**  
   ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
