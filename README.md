@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=250&section=header&text=NghiaLio&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Mobile%20Developer%20|%20Flutter%20Enthusiast&descSize=20&descAlignY=55" />
+
 # Hi there, I'm NghiaLio 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Junior+Mobile+Developer;Flutter+%26+Dart+Developer;Backend+with+NodeJS+and+Golang;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -17,37 +19,21 @@
 ---
 
 ## 🚀 About Me
+```yaml
 
-Hi, I'm **Nghia**, also known as **NghiaLio**.
+name: Nghia (NghiaLio)
+role: Mobile Developer
+focus: Flutter & Dart
+backend: Node.js, Golang
+location: Vietnam 🇻🇳
+currently_working_on: SoftDreams-Software
+passion: Building clean, performant mobile apps
 
-I'm an aspiring **Junior Mobile Developer** specializing in **Flutter** and **Dart**.
-I enjoy building modern, clean, and user-friendly mobile applications.
+```
 
-Besides mobile development, I also have experience working with backend technologies such as **Node.js** and **Golang**. This helps me understand how mobile apps connect with APIs, databases, authentication systems, and backend services.
-
-I am currently focusing on improving my skills in:
-
-* Flutter app architecture
-* State management
-* REST API integration
-* Local storage and data synchronization
-* Clean UI/UX design
-* Mobile app performance
-* Backend development with NodeJS and Golang
+> 💡 I'm a Mobile Developer who loves turning ideas into pixel-perfect, high-performance Flutter applications. With backend experience in Node.js and Golang, I build full-stack mobile solutions from UI to API.
 
 ---
-
-## 🎯 My Goals
-
-* Become a **Junior Mobile Developer specializing in Flutter**.
-* Build real-world mobile applications with clean architecture.
-* Improve my UI/UX design skills.
-* Learn more about backend systems and API design.
-* Contribute to open-source Flutter projects.
-* Keep learning and improving every day.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -81,7 +67,22 @@ I am currently focusing on improving my skills in:
 </p>
 
 ---
+## 🏢 Professional Experience
 
+### 🧾 EasyPOS — Point of Sale System *(Company Project)*
+
+Full-featured POS system for retail and hospitality, built with Flutter.
+
+**My contributions:**
+
+- 🏗️ Architected Invoice Configuration module with clean MVC pattern
+- 🏨 Built Hotel Room & F&B Table management UI
+- 📱 Implemented NFC-based features for quick operations
+- 🎨 Developed shared design system with `AppDimens` constants
+- ✅ Applied `BaseForm` validation lifecycle across modules
+
+**Tech:** `Flutter` · `Dart` · `Clean Architecture` · `GetX` · `REST API`
+--- 
 ## 📱 Featured Projects
 
 ### 💰 Financy App
@@ -167,26 +168,6 @@ Movie browsing and tracking application.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=NghiaLio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaLio&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NghiaLio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
